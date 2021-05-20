@@ -1,4 +1,2 @@
-[<img src="image assets/Frame 14.jpg"
-      alt="Download from Google Play"
-      height="80">]
+![alt text](image assets/Frame 14.jpg)
 # CTracker
