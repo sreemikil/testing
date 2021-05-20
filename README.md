@@ -31,9 +31,3 @@ exact solutions.
 ## Usage
 ## Features
 
-
-```ruby
-  def foo
-    puts 'bar'
-  end
-```
