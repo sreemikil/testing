@@ -1,8 +1,8 @@
 ![alt text](https://github.com/sreemikil/testing/blob/main/Image%20assets/imgban.jpg)
 # CTracker
-## Introduction :cyclone:         
+## Introduction         
 
-<img align="right" src="https://github.com/sreemikil/testing/blob/main/Image%20assets/introimg.png?1" />
+<img align="right" src="https://i.imgur.com/OK9dSLS.png?1" />
 
 
 Applozic brings real-time engagement with chat, video, and voice to your web,
@@ -21,5 +21,10 @@ customizable UI kit, and flexible platform APIs.
 Chat, video, and audio-calling have become the new norm in the post-COVID era,
 and we're bridging the gap between businesses and customers by delivering those
 exact solutions.
+# Table of contents
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Features](#Feature)
+# Installation
+# Usage
 # Features
-# Screenshots
