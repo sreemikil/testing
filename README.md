@@ -2,7 +2,7 @@
 # CTracker
 ## Introduction :cyclone:         
 
-<img align="right" src="https://i.imgur.com/OK9dSLS.png?1" />
+<img align="right" src="https://github.com/sreemikil/testing/blob/main/Image%20assets/introimg.png?1" />
 
 
 Applozic brings real-time engagement with chat, video, and voice to your web,
