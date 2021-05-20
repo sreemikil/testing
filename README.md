@@ -30,3 +30,10 @@ exact solutions.
 ## Installation
 ## Usage
 ## Features
+
+
+```ruby
+  def foo
+    puts 'bar'
+  end
+```
