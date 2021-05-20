@@ -30,7 +30,7 @@ exact solutions.
 * [Features](#Features)
 <a name="Technologiesused"></a>
 ## Technologies used
-Technologies which we are used in this project are listeb below:
+Technologies which we are used in this project are:
 - [Flutter](https://flutter.dev/)
 - [Dart](https://dart.dev/)
 - [Firebase](https://firebase.google.com/)
