@@ -1,2 +1,2 @@
-![Logo](/.github/assets/feature_graphic.png?raw=true "Logo")
+![Logo](/.github/assets/Frame 14.jpg?raw=true "Logo")
 # CTracker
