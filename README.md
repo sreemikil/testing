@@ -2,7 +2,7 @@
 # CTracker
 ## Introduction         
 
-<img align="right" src="https://github.com/sreemikil/testing/blob/f0554f6b2cb13e40bba1cf8544e060be210eb02d/Image%20assets/introimg.png?1" />
+<img align="right" src="https://github.com/sreemikil/testing/blob/eef58864b8fcd08570a34a6dc517b1ceadaea78d/Image%20assets/imgintro.png?1" />
 
 
 Applozic brings real-time engagement with chat, video, and voice to your web,
