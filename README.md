@@ -23,13 +23,14 @@ and we're bridging the gap between businesses and customers by delivering those
 exact solutions.
 ## Table of contents
 * [Technologies used](#Technologiesused)
-* [Building Process](#Building Process)
+* [Building Process](#BuildingProcess)
 * [Requirements](#Requirements)
 * [Installation](#Installation)
 * [Usage](#Usage)
-* [Features](#Feature)
+* [Features](#Features)
 <a name="Technologiesused"></a>
 ## Technologies used
+<a name="BuildingProcess"></a>
 ## Building Process
 ## Requirements
 - Mobile phone powered by Android or IOS
