@@ -22,12 +22,13 @@ Chat, video, and audio-calling have become the new norm in the post-COVID era,
 and we're bridging the gap between businesses and customers by delivering those
 exact solutions.
 ## Table of contents
-* [Technologies used](#Technologies used)
+* [Technologies used](#Technologiesused)
 * [Building Process](#Building Process)
 * [Requirements](#Requirements)
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Features](#Feature)
+<a name="Technologiesused"></a>
 ## Technologies used
 ## Building Process
 ## Requirements
