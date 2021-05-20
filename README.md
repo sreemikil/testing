@@ -27,6 +27,7 @@ exact solutions.
 * [Usage](#Usage)
 * [Features](#Feature)
 ## Requirements
+- Mobile phone with Android or IOS
 ## Installation
 ## Usage
 ## Features
