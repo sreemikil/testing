@@ -22,10 +22,14 @@ Chat, video, and audio-calling have become the new norm in the post-COVID era,
 and we're bridging the gap between businesses and customers by delivering those
 exact solutions.
 ## Table of contents
+* [Technologies used](#Technologies used)
+* [Building Process](#Building Process)
 * [Requirements](#Requirements)
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Features](#Feature)
+## Technologies used
+## Building Process
 ## Requirements
 - Mobile phone powered by Android or IOS
 ## Installation
