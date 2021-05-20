@@ -22,9 +22,11 @@ Chat, video, and audio-calling have become the new norm in the post-COVID era,
 and we're bridging the gap between businesses and customers by delivering those
 exact solutions.
 ## Table of contents
+* [Requirements](#Requirements)
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Features](#Feature)
+## Requirements
 ## Installation
 ## Usage
 ## Features
