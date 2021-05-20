@@ -30,6 +30,10 @@ exact solutions.
 * [Features](#Features)
 <a name="Technologiesused"></a>
 ## Technologies used
+Technologies which we are used in this project are listeb below:
+- Flutter
+- Dart
+- Firebase
 <a name="BuildingProcess"></a>
 ## Building Process
 ## Requirements
