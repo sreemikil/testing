@@ -21,10 +21,10 @@ customizable UI kit, and flexible platform APIs.
 Chat, video, and audio-calling have become the new norm in the post-COVID era,
 and we're bridging the gap between businesses and customers by delivering those
 exact solutions.
-# Table of contents
+## Table of contents
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Features](#Feature)
-# Installation
-# Usage
-# Features
+## Installation
+## Usage
+## Features
