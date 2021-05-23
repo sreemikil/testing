@@ -24,7 +24,7 @@ and we're bridging the gap between businesses and customers by delivering those
 exact solutions.
 ## Table of contents
 * [Team members](#members)
-** [Team Id](#id)
+* [Team Id](#id)
 * [Link to product walkthrough](#Linktoproductwalkthrough)
 * [How it works](#howitworks)
 * [Libraries used](#Librariesused)
