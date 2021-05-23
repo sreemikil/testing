@@ -30,10 +30,11 @@ exact solutions.
 * [Libraries used](#Librariesused)
 * [How to configure](#configure)
 * [How to run](#run)
+
 <a name="members"></a>
-##Team members
+## Team members
 <a name="id"></a>
-##Team Id
+## Team Id
 <a name="Linktoproductwalkthrough"></a>
 ## Link to product walkthrough
 <!--
