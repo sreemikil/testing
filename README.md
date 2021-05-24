@@ -33,6 +33,14 @@ exact solutions.
 
 <a name="members"></a>
 ## Team members
+![Akhil](https://github.com/itexpert2572000/Dbuz/blob/master/Images/tj.png) | ![Suvarnesh K M](https://github.com/itexpert2572000/Dbuz/blob/master/Images/alexy.png) | ![Sreemikil T Manoharan](https://github.com/itexpert2572000/Dbuz/blob/master/Images/anas.png)
+------------ | ------------- | ------------- 
+[@itexpert2572000](https://github.com/itexpert2572000) | [@Suvarnesh K M](https://github.com/SuvarneshKM) | [@Sreemikil T Manoharan](https://github.com/sreemikil)
+
+
+
+
+
 <a name="id"></a>
 ## Team Id
 <a name="Linktoproductwalkthrough"></a>
