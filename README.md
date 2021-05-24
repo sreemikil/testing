@@ -57,7 +57,17 @@ Technologies which we are used in this project are:
 * Embed video of project demo
 <a name="Librariesused"></a>
 ## Libraries used
-- Mobile phone powered by Android or IOS
+- Cupertino_icons
+- Flutter_svg
+- Firebase_core
+- Firebase_auth
+- Firebase_database
+- Fluttertoast
+- Pretty_qr_code
+- QR_code_scanner
+- Image_picker
+- File_picker
+- Lottie
 <a name="configure"></a>
 ## How to configure
 <a name="run"></a>
