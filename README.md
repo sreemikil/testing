@@ -1,5 +1,5 @@
 ![alt text](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
-![alt text](https://github.com/sreemikil/testing/blob/70162a6c143ab6defd675c6ab9c3aa58a5bffc8f/Image%20assets/banner (1).jpg)
+![alt text](https://github.com/sreemikil/testing/blob/55bd7e805f59b54ccca35733f935ffe3d6aad40e/Image%20assets/banner%20(1).jpg)
 # CTracker
 ## Introduction         
 
