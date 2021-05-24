@@ -64,7 +64,7 @@ Follow these steps to install the APK on a connected Android device.
 
 From the command line:
 
-Connect your Android device to your computer with a USB cable.
+ * Connect your Android device to your computer with a USB cable.
  * Enter cd [project].
  * Run flutter install.
 
