@@ -53,6 +53,8 @@ Technologies which we are used in this project are:
 
 <a name="howitworks"></a>
 ## How it works
+* Explaining the working of project
+* Embed video of project demo
 <a name="Librariesused"></a>
 ## Libraries used
 - Mobile phone powered by Android or IOS
