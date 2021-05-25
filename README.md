@@ -49,7 +49,7 @@ exact solutions.
 
 <a name="id"></a>
 ## Team Id
-* Team ID: BFH/recPQYnRXAhew7MhQ/2021.
+* Team ID: <strong>BFH/recPQYnRXAhew7MhQ/2021.</strong>
 <a name="Linktoproductwalkthrough"></a>
 ## Link to product walkthrough
 * Video link
