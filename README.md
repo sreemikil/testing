@@ -78,7 +78,7 @@ Technologies which we are used in this project are:
 - Also he cis able to see daily visitors details and summary.
 
 <a name="video"></a>
-* Embed video of project demo
+### Demo video of Project
 <a name="Librariesused"></a>
 ## Libraries used
 - Cupertino_icons
