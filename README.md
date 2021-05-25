@@ -81,4 +81,8 @@ From the command line:
  * Enter cd [project].
  * Run flutter install.
 
+## Total Visitors
+
+<img align="left" src = "https://profile-counter.glitch.me/flutter_ecommerce_app/count.svg" alt ="Loading">
+
 
