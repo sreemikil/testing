@@ -35,6 +35,7 @@ exact solutions.
 * [Libraries used](#Librariesused)
 * [How to configure](#configure)
 * [How to run](#run)
+* [Design file](#design)
 * [Download now](#download)
 
 <a name="members"></a>
@@ -101,6 +102,8 @@ From the command line:
  * Connect your Android device to your computer with a USB cable.
  * Enter cd [project].
  * Run flutter install.
+<a name="design"></a>
+## Design file
 <br><br>
 <a name="download"></a>
 <p align="center">
