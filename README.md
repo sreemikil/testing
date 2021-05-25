@@ -32,6 +32,8 @@ exact solutions.
 * [Team members](#members)
 * [Team Id](#id)
 * [Link to product walkthrough](#Linktoproductwalkthrough)
+* * Working of project
+* * Demo video of project
 * [How it works](#howitworks)
 * [Libraries used](#Librariesused)
 * [How to configure](#configure)
