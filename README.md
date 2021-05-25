@@ -104,7 +104,7 @@ From the command line:
  * Run flutter install.
 <a name="design"></a>
 ## Design file
-<a href="https://www.figma.com/file/5capyUZOnGpKiwROaBuoRF/bfh-Ctracker?node-id=0%3A1"><img src="https://github.com/sreemikil/testing/blob/3e018f3283e7370a7b29ecb5f257f156eda89ef2/Image%20assets/designf.jpg"></a>
+<a href="https://www.figma.com/file/5capyUZOnGpKiwROaBuoRF/bfh-Ctracker?node-id=0%3A1"><img src="https://github.com/sreemikil/testing/blob/ad5f04bfa574ade3ba58ea506badfcc568951855/Image%20assets/designban.png"></a>
 <br><br>
 <a name="download"></a>
 <p align="center">
