@@ -61,7 +61,7 @@ Technologies which we are used in this project are:
 ## How it works
 ### Working of project
 - User can login or create an account as merchant or customer.
-- user can login using Email and password.
+- User can login using Email and password.
 - User can create account by providing details like :
     - Profile pic
     - Name
@@ -70,7 +70,7 @@ Technologies which we are used in this project are:
     - Vaccine status
 - As a customer, he can scan merchants QR code and confirm his footprint.
 - Also his previous visits will listed in the home screen.
-- As merchant, he can generate QR code with shop details.
+- As a merchant, he can generate QR code with shop details.
 - Also he cis able to see daily visitors details and summary.
 - 
 * Embed video of project demo
