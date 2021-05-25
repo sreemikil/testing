@@ -32,8 +32,8 @@ exact solutions.
 * [Team members](#members)
 * [Team Id](#id)
 * [Link to product walkthrough](#Linktoproductwalkthrough)
-* * Working of project
-* * Demo video of project
+  * [Working of project](#working)
+  * [Demo video of project](#video)
 * [How it works](#howitworks)
 * [Libraries used](#Librariesused)
 * [How to configure](#configure)
@@ -62,6 +62,7 @@ Technologies which we are used in this project are:
 
 <a name="howitworks"></a>
 ## How it works
+<a name="Working"></a>
 ### Working of project
 - User can login or create an account as merchant or customer.
 - User can login using Email and password.
@@ -76,7 +77,7 @@ Technologies which we are used in this project are:
 - As a merchant, he can generate QR code with shop details.
 - Also he cis able to see daily visitors details and summary.
 
-
+<a name="video"></a>
 * Embed video of project demo
 <a name="Librariesused"></a>
 ## Libraries used
