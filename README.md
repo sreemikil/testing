@@ -72,7 +72,8 @@ Technologies which we are used in this project are:
 - Also his previous visits will listed in the home screen.
 - As a merchant, he can generate QR code with shop details.
 - Also he cis able to see daily visitors details and summary.
-- 
+
+
 * Embed video of project demo
 <a name="Librariesused"></a>
 ## Libraries used
