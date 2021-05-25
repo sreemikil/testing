@@ -59,7 +59,19 @@ Technologies which we are used in this project are:
 
 <a name="howitworks"></a>
 ## How it works
-* Explaining the working of project
+### Working of project
+- User should be able to create an account as merchant or customer
+- Entering mobile number or email password to create an account (can user firebase auth)
+- Basic details like (not limited to)
+    - Profile pic
+    - Name
+    - Email
+    - Pincode
+    - Vaccine status
+- As a customer, scan merchants QR code and confirm your footprint.
+- As a customer, show my visits in recent days
+- As merchant able to generate QR code
+- As merchant able to see daily visitors details and summary
 * Embed video of project demo
 <a name="Librariesused"></a>
 ## Libraries used
