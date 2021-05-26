@@ -5,26 +5,16 @@
 # CTracker
 ## Introduction         
 
-<img align="right" src="https://github.com/itexpert2572000/Ctracker/blob/946124dbb31f803dac79ca48c86f9700c5cec83c/readme_assets/introimage.png" />
+<img align="right" src="https://github.com/itexpert2572000/Ctracker/blob/cdbeca3a1a35a80b69e6399701b3edbaf3bbdc44/readme_assets/introban.png" />
 
 
 
-Applozic brings real-time engagement with chat, video, and voice to your web,
-mobile, and conversational apps. We power emerging startups and established
-companies with the most scalable and powerful chat APIs, enabling application
-product teams to drive better user engagement, and reduce time-to-market.
+C-tracker is an android app that let's shopowners to collect footprints of their customers. Meanwhile the customer can easily scan the QR code and conform thair footprints. 
 
-Customers and developers from over 50+ countries use us and love us, from online
-marketplaces and eCommerce to on-demand services, to Education Tech, Health
-Tech, Gaming, Live-Streaming, and more.
+C-tracker was fully developed in flutter, an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, Mac, Windows, Google Fuchsia, and the web from a single codebase.
 
-Our feature-rich product includes robust client-side SDKs for iOS, Android, React
-Native, and Flutter. We also support popular server-side languages, a beautifully
-customizable UI kit, and flexible platform APIs.
+At the end of the day prevention is better than cure. Follow covid protocols with C-tracker.
 
-Chat, video, and audio-calling have become the new norm in the post-COVID era,
-and we're bridging the gap between businesses and customers by delivering those
-exact solutions.
 ## Table of contents
 * [Team members](#members)
 * [Team Id](#id)
@@ -53,7 +43,7 @@ exact solutions.
 * **BFH/recPQYnRXAhew7MhQ/2021.**
 <a name="Linktoproductwalkthrough"></a>
 ## Link to product walkthrough
-* Video link
+[![video thumbnail](https://github.com/itexpert2572000/Ctracker/blob/main/readme_assets/new%20thumbnail.jpg)](https://youtu.be/fcrjcRQzlWc)
 <!--
 Technologies which we are used in this project are:
 - [Flutter](https://flutter.dev/)
@@ -78,7 +68,7 @@ Technologies which we are used in this project are:
 - Also he is able to see daily visitors details and summary.
 
 <a name="video"></a>
-### Demo video of Project
+
 <a name="Librariesused"></a>
 ## Libraries used
 - <a href="https://pub.dev/packages/flutter_svg">Flutter_svg</a>
@@ -93,6 +83,13 @@ Technologies which we are used in this project are:
 - <a href="https://pub.dev/packages/lottie">Lottie</a>
 <a name="configure"></a>
 ## How to configure
+```
+1. Install Flutter
+2. Set up an editor(Android Studio/VS Code)
+3. Test drive
+4. Clone C-tracker
+5. Run
+```
 <a name="run"></a>
 ## How to run
 Follow these steps to install the APK on a connected Android device.
@@ -104,12 +101,12 @@ From the command line:
  * Run flutter install.
 <a name="design"></a>
 ## Design file
-<a href="https://www.figma.com/file/5capyUZOnGpKiwROaBuoRF/bfh-Ctracker?node-id=0%3A1"><img src="https://github.com/sreemikil/testing/blob/ad5f04bfa574ade3ba58ea506badfcc568951855/Image%20assets/designban.png"></a>
+<a href="https://www.figma.com/file/5capyUZOnGpKiwROaBuoRF/bfh-Ctracker?node-id=0%3A1"><img src="https://github.com/itexpert2572000/Ctracker/blob/983e9cfb2310e4523c44a055e63b9268d892b1c6/readme_assets/dsgnban.png"></a>
 <br><br>
 <a name="download"></a>
 <p align="center">
   Download the app now <br><br>
-  <a href="https://apps.apple.com/us/app/gittouch/id1452042346"><img src="https://github.com/itexpert2572000/Ctracker/blob/91a6a09e646eda69264b6611faa5278e0f03e1ab/readme_assets/download.png" alt="Download on the App Store" height="48"></a>
+  <a href="https://drive.google.com/file/d/1AKiJjP-qoJQP1FG9tdlceQLlRSXX3bH_/view?usp=sharing"><img src="https://github.com/itexpert2572000/Ctracker/blob/91a6a09e646eda69264b6611faa5278e0f03e1ab/readme_assets/download.png" alt="Download on the App Store" height="48"></a>
 </p>
 
 <!--## Total Visitors
